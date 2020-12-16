@@ -25,4 +25,4 @@ After the url just type /update/("taskId") and write the data to be updated in t
 
 # Delete
 
-After the url just type /delete and write the valid TaskId of the the data To be Deleted
+After the url just type /delete and write the valid TaskId of the the data in the body To be Deleted
