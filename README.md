@@ -10,6 +10,9 @@ The Backend performs various CURD operations Like {Create,Finding all tasks, Fin
 
 After the url just type /create and write relevant after in the body
 
+# How to start
+
+Enter nodemon app.js to start the server
 
 # FindAll
 
